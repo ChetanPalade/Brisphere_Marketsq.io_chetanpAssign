@@ -36,7 +36,7 @@ JSONPlaceholder: Used for simulating API calls for demonstration purposes.
 
 # Installation
 Clone this repository:
-git clone https://github.com/your-username/brisphere-workation.git
+git clone (https://github.com/ChetanPalade/Brisphere_Marketsq.io_chetanpAssign.git)
 
 # Navigate to the project directory:
 
